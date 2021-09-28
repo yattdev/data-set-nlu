@@ -1,0 +1,259 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Merci"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Merci ! Tu es sympa"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Merci ! c'etais admirable"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Merci ! c'etais extra"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Merci ! c'etais incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Merci ! c'etais merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Merci ! c'etais puissant"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Merci ! c'etais sympa"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Merci infinément"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Merci pour ton quartier"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Merci pour ton travail"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Merci énormement"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Mes remerciements"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Mes remerciements c'est puissant"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Mes remerciements c'est sympa"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Thank"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Thank c'est extra"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Thank c'est impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Thank c'est sympa"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Thank you"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Thank you c'est génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Thank you c'est sympa"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Thanx you"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Thanx you c'est puissant"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Tkx you"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "Tkx you c'est sympa"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "merci"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "merci ! c'etais fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "merci ! c'etais sympa"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "merci beaucoup"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "merci infinément"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "merci pour ton quartier"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "merci pour ton service"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "merci pour ton travail"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "merci énormement"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "mes remerciements"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "thank"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "thank c'est extra"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "thank c'est sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "thank c'est sympa"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "thank you"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "thank you c'est sympa"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "thanx you"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "thanx you c'est fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "thanx you c'est impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "thanx you c'est sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "thanx you c'est sympa"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "tkx you"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "tkx you c'est extra"
+      },
+      {
+        "entities": [],
+        "intent": "thankyou",
+        "text": "tkx you c'est sympa"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

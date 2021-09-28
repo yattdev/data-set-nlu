@@ -1,0 +1,6029 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": ":)"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": ":D"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "alright, cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Alright, cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "ce serait génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Ce serait génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "cool :)"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Cool :)"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "cool beans"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Cool beans"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "cool story bro"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Cool story bro"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "cool!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Cool!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "coolio"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Coolio"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "d'accord, super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "D'accord, super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "going super well"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Going super well"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "got it"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Got it"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "great information"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Great information"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "great!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Great!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "hAHA"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "HAHA"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "hAHAHA"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "HAHAHA"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "ha ha"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Ha ha"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "haha"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Haha"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "hahah"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Hahah"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "hahaha"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Hahaha"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "happy"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Happy"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "hèhè"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Hèhè"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "i am feeling happy"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "I am feeling happy"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "i am happy"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "I am happy"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "i am happy today"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "I am happy today"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "i am very happy with your response"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "I am very happy with your response"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "i like jady"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "I like jady"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "i like you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "I like you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "i love you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "I love you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "i mean to say that I liked the explanation"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "I mean to say that I liked the explanation"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "it's pretty cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "It's pretty cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "ja cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Ja cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "jady is awesome"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Jady is awesome"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je d'adore"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je d'adore"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je me sens absolument en sécurité avec toi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je me sens absolument en sécurité avec toi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis en pliene forme"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis en pliene forme"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je t'aime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je t'aime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je vais bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je vais bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je vais fortement bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je vais fortement bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je vais incroyablement bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je vais incroyablement bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je vais super bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je vais super bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je vais tout bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je vais tout bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je vais très bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je vais très bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je veux être avec toi toute ma vie."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je veux être avec toi toute ma vie."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "lOL lol"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "LOL lol"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "like u"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Like u"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "lol thats funny"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Lol thats funny"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "looks nice"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Looks nice"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "love you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Love you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "oK cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "OK cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "oh cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Oh cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "oh génial!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Oh génial!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "oh super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Oh super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "oh super !!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Oh super !!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "ok cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Ok cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "okay Jadybot, you're cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Okay Jadybot, you're cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "okay cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Okay cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "ouais c'est cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Ouais c'est cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "oui Super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Oui Super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "oui c'est super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Oui c'est super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "oui cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Oui cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "plus je passe de temps avec toi, plus je t’aime d’un amour fort."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Plus je passe de temps avec toi, plus je t’aime d’un amour fort."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "such a great demo"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Such a great demo"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "super laisse faire ça"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Super laisse faire ça"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "super! I love jady"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Super! I love jady"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "sweet"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Sweet"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "that is cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "That is cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "that is funny"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "That is funny"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "that was a great interaction"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "That was a great interaction"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "that's awesome."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "That's awesome."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "that's great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "That's great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "thats funny"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Thats funny"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "thats great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Thats great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "today was a nice day"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Today was a nice day"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "très bien cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Très bien cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu fais de moi une meilleure personne."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu fais de moi une meilleure personne."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu me rends heureux !"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu me rends heureux !"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "va super bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Va super bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "wOW"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "WOW"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "wow"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Wow"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "ya cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Ya cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "ya thats cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Ya thats cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "yep thats cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Yep thats cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "yes cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Yes cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "yes, cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Yes, cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are a badass bot!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are a badass bot!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are awesome"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are awesome"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are cool man"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are cool man"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are doin great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are doin great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are funny"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are funny"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are my new bestfriend"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are my new bestfriend"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are realy intelligent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are realy intelligent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are so smart"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are so smart"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you good"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You good"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you seem pretty cool :D"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You seem pretty cool :D"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you're cute."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You're cute."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you're nice."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You're nice."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you're really cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You're really cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "alright, cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Alright, cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "c'est épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "C'est épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "ce serait génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Ce serait génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "cool :)"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Cool :)"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "cool beans"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Cool beans"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "cool story bro"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Cool story bro"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "cool!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Cool!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "coolio"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Coolio"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "d'accord, super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "D'accord, super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "going super well"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Going super well"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "got it"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Got it"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "great information"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Great information"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "great!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Great!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "hAHA"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "HAHA"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "hAHAHA"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "HAHAHA"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "ha ha"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Ha ha"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "haha"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Haha"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "hahah"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Hahah"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "hahaha"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Hahaha"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "happy"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Happy"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "hm, i'd like that"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Hm, i'd like that"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "hm, j'aimerais ça"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Hm, j'aimerais ça"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "hèhè"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Hèhè"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "i am feeling happy"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "I am feeling happy"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "i am happy"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "I am happy"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "i am happy today"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "I am happy today"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "i am very happy with your response"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "I am very happy with your response"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "i like jady"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "I like jady"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "i like you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "I like you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "i love you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "I love you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "i mean to say that I liked the explanation"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "I mean to say that I liked the explanation"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "it's pretty cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "It's pretty cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "ja cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Ja cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "jady is awesome"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Jady is awesome"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis fortement étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis fortement étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis incroyablement étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis incroyablement étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis super étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis super étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis tout étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis tout étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très ahuri"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très content"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très heureux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très joyeux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très satisfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très stupéfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis très étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis très étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis ébahi"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis éberlué"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis épaté"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "je suis étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Je suis étonné"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "lOL lol"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "LOL lol"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "like u"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Like u"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "lol thats funny"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Lol thats funny"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "looks nice"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Looks nice"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "love you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Love you"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "oK cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "OK cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "oh cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Oh cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "oh génial!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Oh génial!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "oh super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Oh super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "oh super !!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Oh super !!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "ok cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Ok cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "okay Jadybot, you're cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Okay Jadybot, you're cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "okay cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Okay cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "ouais c'est cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Ouais c'est cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "oui Super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Oui Super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "oui c'est super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Oui c'est super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "oui cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Oui cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "such a great demo"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Such a great demo"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "super laisse faire ça"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Super laisse faire ça"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "super! I love jady"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Super! I love jady"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "sweet"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Sweet"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "that is cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "That is cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "that is funny"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "That is funny"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "that was a great interaction"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "That was a great interaction"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "that's awesome."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "That's awesome."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "that's great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "That's great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "thats funny"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Thats funny"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "thats great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Thats great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "today was a nice day"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Today was a nice day"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement admirables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement excellents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement formidables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement impeccables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement incomparables"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement magistrals"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement parfaits"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement puissants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement sans pareils"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement singuliers"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement succulents"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement superbes"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tout simplement épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tout simplement épatants"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "très bien cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Très bien cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es tout simplement épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es tout simplement épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un amour"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un amour"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon admirable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon délicieux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon excellent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon extra"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon fantastisque"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon formidable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon génial"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon génialissime"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon impeccable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon incomparable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon magistral"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon merveilleux"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon parfait"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon puissant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon remarquable"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon sans pareil"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon singulier"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon succulent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon super"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon superbe"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es un compagnon épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es un compagnon épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "tu es épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Tu es épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "va super bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Va super bien"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "wOW"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "WOW"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "wow"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Wow"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "ya cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Ya cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "ya thats cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Ya thats cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "yep thats cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Yep thats cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "yes cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Yes cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "yes, cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Yes, cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are a badass bot!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are a badass bot!"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are awesome"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are awesome"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are cool man"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are cool man"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are doin great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are doin great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are funny"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are funny"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are great"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are my new bestfriend"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are my new bestfriend"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are realy intelligent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are realy intelligent"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you are so smart"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You are so smart"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you good"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You good"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you seem pretty cool :D"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You seem pretty cool :D"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you're cute."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You're cute."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you're nice."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You're nice."
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "you're really cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "You're really cool"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "épatant"
+      },
+      {
+        "entities": [],
+        "intent": "mood_happy",
+        "text": "Épatant"
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}
